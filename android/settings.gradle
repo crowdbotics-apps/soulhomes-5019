@@ -1,0 +1,3 @@
+rootProject.name = 'soulhomes_5019'
+
+include ':app'
